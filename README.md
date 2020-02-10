@@ -2,7 +2,7 @@
 
 Using the SPA framework as a starting point, create a three `Page` application for the Humber Media Pros website. Each of the pages will represent the HTML template for one of: 
 
-- **Home**: A generic homepage (may just be static)å
+- **Home**: A generic homepage (may just be static)
 - **Program**: Represents one of the three programs offered
 - **Student**: Represents the content for one student 
 
@@ -21,11 +21,12 @@ Using the SPA framework as a starting point, create a three `Page` application f
    1. Assign it to yourself
    1. Add at least one "label" to the issue (use the most appropriate one)
 1. Each member should now clone the repo, create a unique branch, and in that branch, add their name under the `# Group` heading, with a link to their Github homepage
+1. When you commit your work, use the commit message to `close #` the ticket
 1. Each member should create a pull request
 1. As a group, sit together and select one person to merge all of the requests into `master`
 1. After managing all merge conflicts, commit all the changes to `master` and push the branch to remote
 1. Prune all of the name branches to demonstrate that functionality
-2. On Slack, create a group message that includes all members of your group and the instructor, then paste the link to your Github Organization into it
+1. On Slack, create a group message that includes all members of your group and the instructor, then paste the link to your Github Organization into it
 
 ## Project requirements
 - Delegate roles to all group members
