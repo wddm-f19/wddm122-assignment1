@@ -46,20 +46,26 @@ Using the SPA framework as a starting point, create a three `Page` application f
 The entire project is worth 25% of your final grade in WDDM122.
 
 ### Part 1 (50% of grade)
-Due: Sunday, March 1 (before 11:59pm)
-
-Complete the design system and all static template pages. Grading for:
-- Planning and documentation
-- Use of Github branching, pull requests, etc
-- Use of Github issues and collaboration
-- Design system (outlined and executed)
-- Content
-- Layout
-- Javascript SPA setup
+Due: **Sunday, March 1 (before 11:59pm)**
 
 Incorporated into each criteria are the the skills which should now be considered part of your workflow, including: syntax, spelling, documentation, code formatting, accessibility, efficient css rules, etc.
 
-### Part 2 (50% of grade)
-Due: Sunday, March 8 (before 11:59pm)
+| Grade | Value | Description |
+| --- | :---: | --- |
+| Organization / Communication | 10 | Slack (or other) communication, issues/tickets, distribution of work, project management |
+| Repository Management | 5 | Commit messages, branch names and usage, frequency of commits, fair distribution of work, file structure |
+| SPA Framework (and other JS) | 5 | Usage and adjustments made to the "framework" structure to accommodate requirements |
+| Content & Design | 15 | Development of assets, graphics, design prototypes, content, information architecture |
+| Static Layout & Design | 15 | Prototyping pages using HTML/CSS |
 
-Pages built with dynamic content and functionality. Grading details to be determined in class as a group on March 2nd.
+### Part 2 (50% of grade)
+Due: **Sunday, March 8 (before 11:59pm)**
+
+Pages built with dynamic content and functionality.
+
+| Grade | Value | Description |
+| --- | :---: | --- |
+| Organization / Communication | 10 | Slack (or other) communication, issues/tickets, distribution of work, project management |
+| Repository Management | 10 | Commit messages, branch names and usage, frequency of commits, fair distribution of work, file structure |
+| Static Layout & Design | 5 | Prototyping pages using HTML/CSS |
+| Implementation | 25 | Development and implementation of functionality with Javascript. May include changes made to the SPA "framework" as well  |
